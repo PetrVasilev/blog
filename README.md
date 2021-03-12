@@ -41,6 +41,6 @@ yarn test
 **Список пользователей**
 login - password
 
-bob - bob1234
-kate - kate1234
-john - john1234
+- bob - bob1234
+- kate - kate1234
+- john - john1234
